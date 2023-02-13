@@ -10,8 +10,8 @@ JavaScript <br>
 Fusion <br>
 
 ### Hobby's:
-Listening to music 
-Drones
-Electronics 
+Listening to music <br>
+Drones <br>
+Electronics <br>
 
 ## [Website](https://www.kickdegans.nl/?ref=projects)
