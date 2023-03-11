@@ -1,5 +1,7 @@
 # Kick de Gans
 
+![](https://komarev.com/ghpvc/?username=KickdeGans)
+
 ## Info:
 ### Experience in:
 C <br>
